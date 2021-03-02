@@ -1,2 +1,2 @@
 # contact-form
-simple conatct form
+simple contact form
